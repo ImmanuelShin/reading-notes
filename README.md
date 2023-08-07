@@ -10,5 +10,6 @@ Every person sees the world in different lenses. These lenses will influence how
 3. Focus on myself:
    - Stop looking at how fast other people are going. It doesn't make sense to look at them when they are racing in an entirely different event.
 
+You are reading my (Immanuel Shin) notes page. I am a Korean American student at Code Fellows. 
 
-More about me at my [github profile](https://github.com/ImmanuelShin).
+More about me at my [GitHub profile](https://github.com/ImmanuelShin).
