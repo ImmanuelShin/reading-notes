@@ -1,12 +1,15 @@
-# Growth Mindset
+# Introduction
+Hello. My name is Immanuel Shin (He/Him) and I live in the Seattle area. I am a student and am hoping to learn how to code. 
 
-## What is it?
+## Growth Mindset
+
+### What is it?
 
 Every person sees the world in different lenses. These lenses will influence how a person reacts to different stimuli. Growth mindset is one of these lenses. 
 
 `Growth mindset`, as a lense, guides the person towards `acceptance` and `adaptability` when faced with problems. Whether these problems are challenges, obstacles, or criticisms, growth mindset will allow the person to take them all in stride and `continue moving forward`.
 
-### Reminders for myself:
+#### Reminders for myself:
 
 1. Don't get distracted:
    
@@ -20,6 +23,4 @@ Every person sees the world in different lenses. These lenses will influence how
    
    - Stop looking at how fast other people are going. It doesn't make sense to look at them when they are racing in an entirely different event.
      
-You are reading my (Immanuel Shin) notes page. I am a Korean American student at Code Fellows. 
-
 More about me at my [GitHub profile](https://github.com/ImmanuelShin).
