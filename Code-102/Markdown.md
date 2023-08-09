@@ -6,7 +6,7 @@ Markdown is a markup language that allows you to format plain text.
 
 Markdown is useful as a universal, portable, and simple language that can be used everywhere and on anything.
 
-## Markdown Formatting: 
+## Markdown Formatting
 
 ### Headings
 
