@@ -18,11 +18,11 @@ A DVCS also stores the changes on a server, but also allows individuals to mirro
 
 ## Git
 
-Git is a DVCS that snapshots file changes, called commits, and stores references to them. 
+Git is a DVCS that snapshots file changes, called commits, and stores references to them.
 
 ### Cloning in Git
 
-The act of creating a copy of an existing Git repository. 
+The act of creating a copy of an existing Git repository.
 
 Cloning copies all versions of all files for a project.
 

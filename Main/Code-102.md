@@ -4,20 +4,20 @@ Intro to Software Development
 
 ## Content
 
-[Growth Mindset](https://immanuelshin.github.io/reading-notes/Growth-Mindset)
+[Growth Mindset](Code-102/Growth-Mindset)
 
-[Markdown](https://immanuelshin.github.io/reading-notes/Markdown)
+[Markdown](Code-102/Markdown)
 
-[The Coder's Computer](https://immanuelshin.github.io/reading-notes/Codercomp)
+[The Coder's Computer](Code-102/Codercomp)
 
-[Revisions and the Cloud](https://immanuelshin.github.io/reading-notes/Revisions-Cloud)
+[Revisions and the Cloud](Code-102/Revisions-Cloud)
 
-[HTML](https://immanuelshin.github.io/reading-notes/HTML)
+[HTML](Code-102/HTML)
 
-[CSS](https://immanuelshin.github.io/reading-notes/CSS)
+[CSS](Code-102/CSS)
 
-[JavaScript](https://immanuelshin.github.io/reading-notes/JS)
+[JavaScript](Code-102/JS)
 
-[Programming with JavaScript](https://immanuelshin.github.io/reading-notes/JSProgramming)
+[Programming with JavaScript](Code-102/JSProgramming)
 
-[Operators and Loops](https://immanuelshin.github.io/reading-notes/Ops-Loops)
+[Operators and Loops](Code-102/Ops-Loops)

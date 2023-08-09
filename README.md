@@ -6,8 +6,8 @@ Hello. I am Immanuel Shin, living in the Seattle area. I am currently a student 
 
 ## Courses
 
-[Code-102](https://immanuelshin.github.io/reading-notes/Code-102)
+[Code-102](Main/Code-102)
 
-[Code-201](https://immanuelshin.github.io/reading-notes/Code-201)
+[Code-201](Main/Code-201)
 
 More about me at my [GitHub profile](https://github.com/ImmanuelShin).
