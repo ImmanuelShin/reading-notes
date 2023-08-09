@@ -21,3 +21,5 @@ Intro to Software Development
 [Programming with JavaScript](../Code-102/JSProgramming)
 
 [Operators and Loops](../Code-102/Ops-Loops)
+
+[Reflections and Obvservations](../Code-102/Reflections)
