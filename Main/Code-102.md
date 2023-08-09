@@ -4,7 +4,7 @@ Intro to Software Development
 
 ## Content
 
-[Growth Mindset](Code-102/Growth-Mindset)
+[Growth Mindset](reading-notes/Code-102/Growth-Mindset)
 
 [Markdown](Code-102/Markdown)
 
