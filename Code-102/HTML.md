@@ -52,3 +52,22 @@ The semantic element h1, for example, gives the text it wraps the role of a top 
 - Makes code much more readable:
     - Gives a visual indication to the developer what type of data should be populated within.
     - Gives better visual structure to the lines of code.
+
+##### List of Semantic Elements
+
+- `<article>`
+- `<aside>`
+- `<details>`
+- `<figcaption>`
+- `<figure>`
+- `<form>`
+- `<footer>`
+- `<header>`
+- `<main>`
+- `<mark>`
+- `<nav>`
+- `<section>`
+- `<summary>`
+- `<time>`
+
+[More semantic elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
