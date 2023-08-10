@@ -37,7 +37,7 @@ While not every attribute will have a value, those that do will always have:
 2. The attribute name followed by an equal sign.
 3. The attribute value wrapped by opening and closing quotation marks.
 
-### Semantics
+#### Semantics
 
 The *meaning* of a piece of code. In HTML, various elements will be semantic elements, which gives the content the element wraps with a specific role.
 
@@ -45,7 +45,7 @@ The semantic element h1, for example, gives the text it wraps the role of a top 
 
 - > `<h1>This is a top level header</h1>`
 
-#### Semantic Benefits
+##### Semantic Benefits
 
 - Search engines consider its contents as important keywords to influence the page's search rankings.
 - Screen readers can use them as signposts to help visually impaired users navigate pages.
