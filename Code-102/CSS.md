@@ -58,7 +58,7 @@ Let's say we wanted to set a CSS rule that set all `<p>` elements to have red te
 You would do so by:
 
 - > `p {`  
-    `color: red;`  
+    &nbsp;&nbsp;`color: red;`  
     `}`  
 - First adding the p selector.
 - Then adding the curly braces.
