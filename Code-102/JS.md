@@ -1,6 +1,6 @@
 # Dynamic web pages with JavaScript
 
-## Javascript
+## JavaScript
 
 A lightweight interpreted programming language. Capabilities include:
 > runtime object construction, variable parameter lists, function variables, dynamic script creation (via `eval`), object introspection (via `for...in` and `Object utilities`), and source-code recovery (JavaScript functions store their source text and can be retrieved through `toString()`).
