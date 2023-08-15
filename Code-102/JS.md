@@ -67,4 +67,3 @@ In algebra, the following would not make any sense:
 > x = x + 5
 
 However, in JS, because (=) is used to assign instead of signaling equivalence, it makes sense. The case above is assigning the value of "x + 5" to x, rewriting the old value of x with the new value of "x + 5".
-
