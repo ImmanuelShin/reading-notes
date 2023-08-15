@@ -15,7 +15,7 @@ In JavaScript, a function is defined with the `function` keyword, followed by th
 > super complicated code.  
 > }
 
-### Ivocation
+### Invocation
 
 In order to execute a function, it must first be invoked (called).
 
