@@ -69,9 +69,9 @@ There are a multitude of loops provided in JavaScript:
 
 All of the loops shown will only stop iterating once specified conditions are met (if conditions are set in the first place).
 
-- e.g the for loop aboved will end once variable i is equivalent to the value of variable someNumber.
+- e.g the for loop above will end once variable i is equivalent to the value of variable someNumber.
 
-If no conditions are set or if the conditions can never be met, then the loops will continue interating forever.
+If no conditions are set or if the conditions can never be met, then the loops will continue iterating forever.
 
 - e.g:
   > while (1 = 1) {  
