@@ -14,10 +14,10 @@ Hello. I am Immanuel Shin, living in the Seattle area. I am currently a student 
 
 ## Code 301
 
-- [Intermediate Software Development](Main/Code-301.md)
+- [Intermediate Software Development](Main/Code-301)
 
 ## Code 401
 
-- [Advanced Software Development](Main/Code-401.md)
+- [Advanced Software Development](Main/Code-401)
 
 More about me at my [GitHub profile](https://github.com/ImmanuelShin).
