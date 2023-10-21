@@ -1,6 +1,6 @@
-# Code 201
+# Code 301
 
-Foundations of Software Development
+(Class name placeholder)
 
 ## Content
 
