@@ -90,3 +90,7 @@ They grow up so fast.
 
 Research has shown that if you put a button in front of a number of users that randomly gives them either nothing or a reward, they will endlessly click the button in order to get that reward. Now charge $1 to click the button, make a failure picture pop up whenever they fail so that they get motivated to win, and make the reward sound a nice little jingle so they feel special when they win and you have yourself a money making machine!  
 All you have to do is either internal JS or link the JavaScript file to your HTML file using \<script> within the \<head> tag and you have yourself a business model.
+
+## Things I want to know more about
+
+I need more references to random pop media.
