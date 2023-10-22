@@ -6,7 +6,7 @@ Foundations of Software Development
 
 [Ai and Prompt Engineering](../Code-201/prompt-engineering.md)
 
-[Link]()
+[Class 01 Reading](../Code-201/class-01.md)
 
 [Link]()
 
