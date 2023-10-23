@@ -8,7 +8,7 @@ Foundations of Software Development
 
 [Class 01 Reading](../Code-201/class-01.md)
 
-[Link]()
+[Class 02 Reading](../Code-201/class-02.md)
 
 [Link]()
 
