@@ -113,7 +113,7 @@ Logical operators are additional ways to more complexly compare values:
 
 > ((1 == 1) \&\& ("Abc" = "Abc")) -> true
 
-- \||: OR; Requires just one expression to result in true.
+- \|\|: OR; Requires just one expression to result in true.
 
 > ((1 == 1) \|\| ("Abc" = "Acb")) -> true
 
