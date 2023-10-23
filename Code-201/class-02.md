@@ -116,3 +116,7 @@ Logical operators are additional ways to more complexly compare values:
 - ||: OR; Requires just one expression to result in true.
 
 > (1 == 1 || "Abc" = "Acb") -> true
+
+## Things I want to know more about
+
+If pudding is synonymous with dessert for British people, could a chocolate bar be considered pudding?
