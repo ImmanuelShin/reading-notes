@@ -109,13 +109,13 @@ The way that conditions are determined true or false are often tested by compari
 
 Logical operators are additional ways to more complexly compare values:
 
-- \&&: AND; Requires all expressions tested to result in true.
+- &&: AND; Requires all expressions tested to result in true.
 
-> (1 == 1 \&& "Abc" = "Abc") -> true
+> ((1 == 1) \&\& ("Abc" = "Abc")) -> true
 
 - \||: OR; Requires just one expression to result in true.
 
-> (1 == 1 \|| "Abc" = "Acb") -> true
+> ((1 == 1) \|\| ("Abc" = "Acb")) -> true
 
 ## Things I want to know more about
 
