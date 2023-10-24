@@ -1,4 +1,4 @@
-# Basics of HTML, CSS & JS
+# Class 02
 
 ## Introduction to HTML
 
