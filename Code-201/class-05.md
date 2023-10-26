@@ -76,4 +76,4 @@ We also have many ways to manipulate the overall layout of our text:
 
 ## Things I want to know more about
 
-If we got giant mirrors, magically placed them extremely far out in the universe, and pointed them back towards us. Would we eventually get images of prehistoric Earth?
+If we got giant mirrors, magically placed them extremely far out in the universe, and pointed them back towards us, would we eventually get images of prehistoric Earth?
