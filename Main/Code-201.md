@@ -14,7 +14,7 @@ Foundations of Software Development
 
 [Class 04 Reading](../Code-201/class-04.md)
 
-[Link]()
+[Class 05 Reading](../Code-201/class-05.md)
 
 [Link]()
 
