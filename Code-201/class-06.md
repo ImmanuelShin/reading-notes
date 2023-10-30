@@ -49,3 +49,5 @@ Take the following code as an example:
 
 Document Object Model: A programming interface for web documents. It interprets the objects that make up web documents and represents them to various programs. The DOM represents the documents as a collection of nodes and objects soo that they can be interacted with and changed by programming languages.  
 The DOM is not by itself a programming language. It is merely a medium that JavaScript and other languages use to access web documents. Without it, JavaScript wouldn't have any idea as to what it is looking at. The DOM is essentially a translator.
+
+## Things I want to know more about
