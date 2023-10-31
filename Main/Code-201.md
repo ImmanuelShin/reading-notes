@@ -20,7 +20,7 @@ Foundations of Software Development
 
 [Class 07 Reading](../Code-201/class-07.md)
 
-[Link]()
+[Class 08 Reading](../Code-201/class-08.md)
 
 [Link]()
 
