@@ -24,7 +24,7 @@ Foundations of Software Development
 
 [Class 09 Reading](../Code-201/class-09.md)
 
-[Link]()
+[Class 10 Reading](../Code-201/class-10.md)
 
 [Link]()
 
