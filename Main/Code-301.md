@@ -4,7 +4,7 @@ Intermediate Software Development
 
 ## Content
 
-[Class 01](Code-301/class-01.md)
+[Class 01](../Code-301/class-01.md)
 
 [Link]()
 
