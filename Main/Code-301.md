@@ -6,7 +6,7 @@ Intermediate Software Development
 
 [Class 01](../Code-301/class-01.md)
 
-[Link]()
+[Class 02](../Code-301/class-02.md)
 
 [Link]()
 
