@@ -47,3 +47,5 @@ States are mainly for things that do want to change:
 - Updated values for counters.
 
 We use state for information handled within and only within the component. We use props for things that are handled outside and don't change within the component.
+
+## Things I want to know more about
