@@ -27,6 +27,8 @@ Advantages that come from using components and component-based architecture:
 - System maintenance and evolution: Easy to change and update the implementation without affecting the rest of the system.  
 - Independent: Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.  
 
+[source](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+
 ### Props in React
 
 Props is a keyword used in React that stands for properties. It is used to pass data from one component to another.
@@ -38,5 +40,7 @@ In order to use Props:
 - We first define an attribute and its value.
 - We then pass it to child components by using Props.
 - We finally render the Props data.
+
+[source](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
 
 ## Things I want to know more about

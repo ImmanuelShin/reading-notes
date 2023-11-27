@@ -28,6 +28,8 @@ Lifecycle events:
 - componentDidUpdate()
 - componentWillUnmount()
 
+[source](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
+
 ### State vs Props
 
 React allows us to manage data, render that data, and change the render when that data changes. We control these usings states and props.
