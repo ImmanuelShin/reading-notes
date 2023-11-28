@@ -8,7 +8,7 @@ Intermediate Software Development
 
 [Class 02](../Code-301/class-02.md)
 
-[Link]()
+[Class 03](../Code-301/class-03.md)
 
 [Link]()
 
