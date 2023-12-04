@@ -16,7 +16,7 @@ Intermediate Software Development
 
 [Class 06](../Code-301/class-06.md)
 
-[Link]()
+[Class 07](../Code-301/class-07.md)
 
 [Link]()
 
