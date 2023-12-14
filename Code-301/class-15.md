@@ -50,7 +50,8 @@ The idea was that OpenID would serve as a central point of sign in, rather than 
 - Auth0's SDK sends authorization code, application's client ID, and application's credentials, such as client secret or Private Key JWT, to Auth0 Authorization Server (/oauth/token endpoint).
 - Auth0 Authorization Server verifies authorization code, application's client ID, and application's credentials.
 - Auth0 Authorization Server responds with an ID token and access token (and optionally, a refresh token).
-- Application can use the access token to call an API t
+- Application can use the access token to call an API to access information about the user.
+- API responds with requested data.
 
 #### Authorization Code Flow with Proof Key for Code Exchange (PKCE)
 
