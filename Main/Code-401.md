@@ -12,7 +12,7 @@ Advanced Software Development in Python
 
 [Class 01](../Code-401/class-01.md)
 
-[Link]()
+[Class 02](../Code-401/class-02.md)
 
 [Link]()
 
