@@ -59,3 +59,5 @@ The ideal would be to:
 
 Big O notation is a mathematical representation used to describe the upper bound or worst-case time complexity of an algorithm in terms of its input size. It provides a way to analyze and compare the efficiency of algorithms by expressing their growth rates. For example, O(n) signifies linear time complexity, where the execution time increases proportionally with the input size.  
 Consider searching for a specific book on a bookshelf. If each book needs to be checked sequentially until the desired one is found, the time taken scales linearly with the number of books (n), making it an O(n) task.
+
+## Things I want to know more about
