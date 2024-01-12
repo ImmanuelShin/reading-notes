@@ -24,7 +24,7 @@ Advanced Software Development in Python
 
 [Link]()
 
-[Link]()
+[Class 06](../Code-401/class-06.md)
 
 [Link]()
 
