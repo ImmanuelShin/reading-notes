@@ -25,6 +25,8 @@ Python uses the LEGB rule to resolve names:
 
 - **Built-in scope** is a special Python scope that’s created or loaded whenever you run a script or open an interactive session. This scope contains names such as keywords, functions, exceptions, and other attributes that are built into Python. Names in this Python scope are also available from everywhere in your code. It’s automatically loaded by Python when you run a program or script.
 
+[source](https://realpython.com/python-scope-legb-rule/)
+
 ### Keywords
 
 Python generally follows LEGB, but it also provides the global and nonlocal keywords in order to modify standard behavior.
