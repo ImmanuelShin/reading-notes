@@ -30,7 +30,7 @@ Advanced Software Development in Python
 
 [Class 08](../Code-401/class-08.md)
 
-[Link]()
+[Class 10](../Code-401/class-10.md)
 
 [Link]()
 
