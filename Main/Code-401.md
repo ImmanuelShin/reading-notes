@@ -22,8 +22,6 @@ Advanced Software Development in Python
 
 [Class 04](../Code-401/class-04.md)
 
-[Link]()
-
 [Class 06](../Code-401/class-06.md)
 
 [Class 07](../Code-401/class-07.md)
@@ -42,4 +40,4 @@ Advanced Software Development in Python
 
 [Class 16](../Code-401/class-16.md)
 
-[Link]()
+[Class 17](../Code-401/class-17.md)
