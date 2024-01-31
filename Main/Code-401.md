@@ -43,3 +43,5 @@ Advanced Software Development in Python
 [Class 17](../Code-401/class-17.md)
 
 [Class 18](../Code-401/class-18.md)
+
+[Class 19](../Code-401/class-19.md)
