@@ -8,6 +8,7 @@ import re
 ```
 
 Cheatsheet:
+
 | Metacharacter | Description |
 |---------------|-------------|
 | .             | A period. Matches any single character except the newline character. |
