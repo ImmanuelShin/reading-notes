@@ -22,3 +22,5 @@ The Django Admin interface provides an out-of-the-box solution for managing the 
 2. **View processes the request:** Interacts with models, performs business logic, and communicates with templates.
 3. **Template generates HTML:** Dynamically incorporates data from the view.
 4. **Response sent to the user:** HTML is rendered and sent back to the user.
+
+## Things I want to know more about
