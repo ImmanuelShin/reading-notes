@@ -49,7 +49,7 @@ Django templates play a pivotal role in structuring the layout and content of we
 
 ### Base Template Example
 
-```html
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -71,7 +71,7 @@ Django templates play a pivotal role in structuring the layout and content of we
 
 ### Extending Base
 
-```html
+```
 {% extends "base_generic.html" %}
 
 {% block content %}
