@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Class 28
 
 ## Django Forms
