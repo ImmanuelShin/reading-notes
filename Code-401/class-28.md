@@ -49,7 +49,7 @@ Django templates play a pivotal role in structuring the layout and content of we
 
 ## Referencing Static Files
 
-The `{% load static %}` tag enables referencing static files like CSS and images. URLs for static files are specified using the `static` template tag.
+The load static tag enables referencing static files like CSS and images. URLs for static files are specified using the `static` template tag.
 
 ## Linking to URLs
 
