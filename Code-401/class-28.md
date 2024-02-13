@@ -49,40 +49,35 @@ Django templates play a pivotal role in structuring the layout and content of we
 
 ### Base Template Example
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    {% blockquote %}
-      <title>Local Library</title>
-    {% endblockquote %}
-    <!-- Additional head content -->
-  </head>
-  <body>
-    {% blockquote %}
-      <!-- Default navigation content -->
-    {% endblockquote %}
-    {% blockquote %}
-      <!-- Default content -->
-    {% endblockquote %}
-  </body>
-</html>
-```
+> \<!DOCTYPE html>  
+> \<html lang="en">  
+> &nbsp; &nbsp;\<head>  
+> &nbsp; &nbsp;&nbsp; &nbsp;\{% block title %}  
+> &nbsp; &nbsp;&nbsp; &nbsp;\<title>Local Library\</title>  
+> &nbsp; &nbsp;&nbsp; &nbsp;\{% endblock %}  
+> &nbsp; &nbsp;\</head>  
+> &nbsp; &nbsp;\<body>  
+> &nbsp; &nbsp;&nbsp; &nbsp;\{% block sidebar %}  
+> &nbsp; &nbsp;&nbsp; &nbsp;  # Default navigation content  
+> &nbsp; &nbsp;&nbsp; &nbsp;\{% endblock %}  
+> &nbsp; &nbsp;&nbsp; &nbsp;\{% block content %}  
+> &nbsp; &nbsp;&nbsp; &nbsp; # Default content  
+> &nbsp; &nbsp;&nbsp; &nbsp;\{% endblock %}  
+> &nbsp; &nbsp;\</body>  
+>\</html>
 
 ### Extending Base
 
-```html
-{% extends "base_generic.html" %}
-
-{% blockquote %}
-  <h1>Local Library Home</h1>
-  <p>
-    Welcome to LocalLibrary, a website developed by
-    <em>Mozilla Developer Network</em>!
-  </p>
-  <!-- Additional dynamic content -->
-{% endblockquote %}
-```
+> \{% extends "base_generic.html" %}  
+>   
+> \{% block content %}  
+> &nbsp; &nbsp; \<h1>Local Library Home\</h1>  
+> &nbsp; &nbsp; \<p>  
+> &nbsp; &nbsp;&nbsp; &nbsp;Welcome to LocalLibrary, a website developed by  
+> &nbsp; &nbsp;&nbsp; &nbsp;\<em>Mozilla Developer Network\</em>!  
+> &nbsp; &nbsp;\</p>  
+> &nbsp; &nbsp; # Additional dynamic content   
+> \{% endblock %}  
 
 ## Referencing Static Files
 
