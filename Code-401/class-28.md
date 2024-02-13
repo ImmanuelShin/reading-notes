@@ -52,32 +52,32 @@ Django templates play a pivotal role in structuring the layout and content of we
 > \<!DOCTYPE html>  
 > \<html lang="en">  
 > &nbsp; &nbsp;\<head>  
-> &nbsp; &nbsp;&nbsp; &nbsp;\{% block title %}  
+> &nbsp; &nbsp;&nbsp; &nbsp;\{\% block title \%\}  
 > &nbsp; &nbsp;&nbsp; &nbsp;\<title>Local Library\</title>  
-> &nbsp; &nbsp;&nbsp; &nbsp;\{% endblock %}  
+> &nbsp; &nbsp;&nbsp; &nbsp;\{\% endblock \%\}  
 > &nbsp; &nbsp;\</head>  
 > &nbsp; &nbsp;\<body>  
-> &nbsp; &nbsp;&nbsp; &nbsp;\{% block sidebar %}  
+> &nbsp; &nbsp;&nbsp; &nbsp;\{\% block sidebar \%\}  
 > &nbsp; &nbsp;&nbsp; &nbsp;  # Default navigation content  
-> &nbsp; &nbsp;&nbsp; &nbsp;\{% endblock %}  
-> &nbsp; &nbsp;&nbsp; &nbsp;\{% block content %}  
+> &nbsp; &nbsp;&nbsp; &nbsp;\{\% endblock \%\}  
+> &nbsp; &nbsp;&nbsp; &nbsp;\{\% block content \%\}  
 > &nbsp; &nbsp;&nbsp; &nbsp; # Default content  
-> &nbsp; &nbsp;&nbsp; &nbsp;\{% endblock %}  
+> &nbsp; &nbsp;&nbsp; &nbsp;\{\% endblock \%\}  
 > &nbsp; &nbsp;\</body>  
 >\</html>
 
 ### Extending Base
 
-> \{% extends "base_generic.html" %}  
+> \{\% extends "base_generic.html" \%\}  
 >   
-> \{% block content %}  
+> \{\% block content \%\}  
 > &nbsp; &nbsp; \<h1>Local Library Home\</h1>  
 > &nbsp; &nbsp; \<p>  
 > &nbsp; &nbsp;&nbsp; &nbsp;Welcome to LocalLibrary, a website developed by  
 > &nbsp; &nbsp;&nbsp; &nbsp;\<em>Mozilla Developer Network\</em>!  
 > &nbsp; &nbsp;\</p>  
 > &nbsp; &nbsp; # Additional dynamic content   
-> \{% endblock %}  
+> \{\% endblock \%\}  
 
 ## Referencing Static Files
 
