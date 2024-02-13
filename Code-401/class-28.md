@@ -53,18 +53,18 @@ Django templates play a pivotal role in structuring the layout and content of we
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!-- {% block title %} -->
+    {% blockquote %}
       <title>Local Library</title>
-    <!-- {% endblock %} -->
+    {% endblockquote %}
     <!-- Additional head content -->
   </head>
   <body>
-    <!-- {% block sidebar %} -->
+    {% blockquote %}
       <!-- Default navigation content -->
-    <!-- {% endblock %} -->
-    <!-- {% block content %} -->
+    {% endblockquote %}
+    {% blockquote %}
       <!-- Default content -->
-    <!-- {% endblock %} -->
+    {% endblockquote %}
   </body>
 </html>
 ```
@@ -72,16 +72,16 @@ Django templates play a pivotal role in structuring the layout and content of we
 ### Extending Base
 
 ```html
-<!-- {% extends "base_generic.html" %} -->
+{% extends "base_generic.html" %}
 
-<!-- {% block content %} -->
+{% blockquote %}
   <h1>Local Library Home</h1>
   <p>
     Welcome to LocalLibrary, a website developed by
     <em>Mozilla Developer Network</em>!
   </p>
   <!-- Additional dynamic content -->
-<!-- {% endblock %} -->
+{% endblockquote %}
 ```
 
 ## Referencing Static Files
