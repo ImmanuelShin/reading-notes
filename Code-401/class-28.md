@@ -1,6 +1,3 @@
----
-layout: default
----
 # Class 28
 
 ## Django Forms
@@ -52,39 +49,39 @@ Django templates play a pivotal role in structuring the layout and content of we
 
 ### Base Template Example
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    {% block title %}
+    <!-- {% block title %} -->
       <title>Local Library</title>
-    {% endblock %}
+    <!-- {% endblock %} -->
     <!-- Additional head content -->
   </head>
   <body>
-    {% block sidebar %}
+    <!-- {% block sidebar %} -->
       <!-- Default navigation content -->
-    {% endblock %}
-    {% block content %}
+    <!-- {% endblock %} -->
+    <!-- {% block content %} -->
       <!-- Default content -->
-    {% endblock %}
+    <!-- {% endblock %} -->
   </body>
 </html>
 ```
 
 ### Extending Base
 
-```
-{% extends "base_generic.html" %}
+```html
+<!-- {% extends "base_generic.html" %} -->
 
-{% block content %}
+<!-- {% block content %} -->
   <h1>Local Library Home</h1>
   <p>
     Welcome to LocalLibrary, a website developed by
     <em>Mozilla Developer Network</em>!
   </p>
   <!-- Additional dynamic content -->
-{% endblock %}
+<!-- {% endblock %} -->
 ```
 
 ## Referencing Static Files
