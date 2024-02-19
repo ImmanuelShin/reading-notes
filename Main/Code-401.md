@@ -55,3 +55,5 @@ Advanced Software Development in Python
 [Class 29](../Code-401/class-29.md)
 
 [Class 31](../Code-401/class-31.md)
+
+[Class 32](../Code-401/class-32.md)
