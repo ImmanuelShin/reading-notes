@@ -14,6 +14,8 @@ Advanced Software Development in Python
 
 [Data Structures and Algorithms](../Code-401/data.md)
 
+[Ethics in Tech](../Code-401/ethics.md)
+
 [Class 01](../Code-401/class-01.md)
 
 [Class 02](../Code-401/class-02.md)
